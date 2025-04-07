@@ -5,7 +5,6 @@
 See the live version of [ROSSTAL](https://imediasystem.github.io/Rosstal/)
 
 Working on a website for a pipe-fitting company, aimed at improving client engagement through a streamlined digital platform using HTML, CSS, JavaScript, jQuery and Angular. This project underscores my commitment to delivering high-quality web solutions.
-
 &nbsp;
 
 ## 📚 Technologies, Frameworks, Platforms and Libraries
@@ -14,24 +13,20 @@ Working on a website for a pipe-fitting company, aimed at improving client engag
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![jQuery](https://img.shields.io/badge/jquery-brown.svg?style=for-the-badge&logo=jquery&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/angular-%23E23237.svg?style=for-the-badge&logo=angular&logoColor=white)
-
 &nbsp;
 
 ## 💿 Installation
 
 Some projects uses [node](https://nodejs.org/en/) and [npm](https://www.npmjs.com/). Having them installed, type into the terminal: `npm i`.
-
 &nbsp;
 
 ## 🔗 See also
 
 Are you interested in? See my other projects and visit my website [iMedia SysteM - imediasystem.eu](https://imediasystem.eu/)
-
 &nbsp;
 
 ## 📝 Feel free to contact me
 Write sth nice ;) Find me on [Linkedin](https://www.linkedin.com/in/krzysztof-graca-47698997/)
-
 &nbsp;
 
 ## 👏 Thanks / Special thanks / Credits
